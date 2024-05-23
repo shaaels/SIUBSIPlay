@@ -132,7 +132,7 @@
                 <div class="row row-cols-1 row-cols-md-3 g-4 mb-5">
                     <div class="col">
                       <div class="card h-100">
-                        <img class="card-img-top" src="<?= base_url('assets/img/daftar_game.png'); ?>" alt="Card image cap" />
+                        <img class="card-img-top" src="<?= base_url('assets/img/daftar_game.jpg'); ?>" alt="Card image cap" />
                         <div class="card-body">
                           <h5 class="card-title">Daftar Game</h5>
                           <p class="card-text">
@@ -144,7 +144,7 @@
                     </div>
                     <div class="col">
                       <div class="card h-100">
-                        <img class="card-img-top" src="<?= base_url('assets/img/panduan_penggunaan_game.png'); ?>" alt="Card image cap" />
+                        <img class="card-img-top" src="<?= base_url('assets/img/panduan_penggunaan_game.jpg'); ?>" alt="Card image cap" />
                         <div class="card-body">
                           <h5 class="card-title">Panduan Penggunaan Game</h5>
                           <p class="card-text">
@@ -156,7 +156,7 @@
                     </div>
                     <div class="col">
                       <div class="card h-100">
-                        <img class="card-img-top" src="<?= base_url('assets/img/game_update_logs.png'); ?>" alt="Card image cap" />
+                        <img class="card-img-top" src="<?= base_url('assets/img/game_update_logs.jpg'); ?>" alt="Card image cap" />
                         <div class="card-body">
                           <h5 class="card-title">Game Update Logs</h5>
                           <p class="card-text">
