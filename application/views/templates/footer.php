@@ -3,7 +3,7 @@
 <footer class="page-footer font-small pt-1 mt-5">
 
         <!-- Copyright -->
-        <div class="footer-copyright text-center small py-3">© 2023
+        <div class="footer-copyright text-center small py-3">© 2024
             <a href="https://github.com/siubsi" class="text-white"> | SIUBSI</a>
         </div>
         <!-- Copyright -->
